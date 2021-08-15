@@ -1,2 +1,3 @@
 # MarioFlap
-Flappy bird but with mario made with pyhton
+*Fortnite balls*
+*Bird Game but with mario , idea of the century*
